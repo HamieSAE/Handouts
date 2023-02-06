@@ -13,10 +13,10 @@ public class ConstantManagerScript : MonoBehaviour
 
 	private void Awake()
 	{
-		IF(Instance == null)
+		iF(Instance == null)
 		{
 			Instance = this;
-			DontDestroyonLoad(gameObject);
+			DontDestroyOnLoad(gameObject);
 		}
 		else
 		{
