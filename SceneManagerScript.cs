@@ -6,11 +6,11 @@ using UnityEngine.UI;
 
 public class SceneManagerScript : MonoBehaviour
 {
-	public Text ValueTxt;
+	public Text TextonValue;
 
 	private void Start()
 	{
-		ValueTxt.text = ConstantManagerScript.Instance.Value.Tostring();
+		TextonValue.text = ConstantManagerScript.Instance.Value.Tostring();
 	}
 
 	public void GoToFirstScene()
