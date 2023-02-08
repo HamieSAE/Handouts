@@ -2,16 +2,16 @@
 Random codes that could be useful to someone somewhere!
 
 Week 3 - 003 Singleton
-         004 Behaviour Tree
+         004 Behavior Tree
 
 Week 4 - 003 Observer Design Pattern/ Command
-         004 FSM - Finite-state Machine
+         004 Behavior Tree Part 2
 
 Week 5 - 003 Data Structure??
-         004 Path Finding
+         004 FSM - Finite-state Machine
          
 Week 6 - 003 
-         004 
+         004 Path Finding
          
 Week 7 - 003 
          004 
