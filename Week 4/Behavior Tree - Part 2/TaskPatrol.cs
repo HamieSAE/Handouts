@@ -4,6 +4,7 @@ using UnityEngine;
 
 using BehaviorTree;
 
+// TaskPatrol is a subclass of Node that represents a task in the behavior tree
 public class TaskPatrol : Node
 {
 	private Transform _transform;
@@ -16,6 +17,9 @@ public class TaskPatrol : Node
 	private float _waitCounter = 0f;
 	private bool _waiting = false;
 
+	// Constructor takes a transform, an array of transforms (representing waypoints), 
+		//and an animator component.
+	
 	public TaskPatrol(Transform transform, Transform[] waypoints)
 	{
 		_transform = transform;
@@ -23,10 +27,13 @@ public class TaskPatrol : Node
 		_waypoints = waypoints;
 	}
 
+	// The Evaluate method is called to evaluate the state of the task.
 	public override NodeState Evaluate()
 	{
+		// If the character is waiting at a waypoint
 		if(_waiting)
 		{
+			// Check if the waiting time has passed
 			_waitCounter += Time.deltaTime;
 			if(_waitCounter >= _waitTime)
 			{
@@ -36,7 +43,9 @@ public class TaskPatrol : Node
 		}
 		else
 		{
+			// Get the current waypoint
 			Transform wp = _waypoints[_currentWaypointIndex];
+			// If the character has reached the waypoint
 			if(Vector3.Distance(_transform.position, wp.position) < 0.01f)
 			{
 				_transform.position = wp.position;
