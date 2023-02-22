@@ -10,13 +10,13 @@ Week 4 - 003 Command
 Week 5 - 003 Data Structure (Maybe VOD) [003 - P1]
          004 Procedural Generation [Part 1 - Noise]
          
-Week 6 - 003 Data Locality [003 - P1]
+Week 6 - 003 Object Pool / Factory [003 - P1]
          004 Procedural Generation [Part 2 - Spaces][004 - P1]
          
-Week 7 - 003 Object Pool / Factory
+Week 7 - 003 Spatial Partition
          004 Procedural Generation [Part 3 - World Gen][004 - P1]
          
-Week 8 - 003 Spatial Partition 
+Week 8 - 003  ??? Posible AFK???
          004 Procedural Generation [Part 4 - Maze]
          
 Week 9 - 003 CopyRight (C) [003 - P2]
