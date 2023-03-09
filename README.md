@@ -1,5 +1,5 @@
 # Handouts
-Random codes that could be useful to someone somewhere!
+The Schedule of studying for 2023 T2
 
 Week 3 - 003 Singleton
          004 Behavior Tree
@@ -14,13 +14,13 @@ Week 6 - 003 Object Pool / Factory [003 - P1]
          004 Procedural Generation [Part 2 - Terrain/World Gen][004 - P1]
          
 Week 7 - 003 Spatial Partition
-         004 Procedural Generation [Part 3 - Maze][004 - P1]
+         004 Project Week [004 - P1]
          
-Week 8 - 003  ??? Posible AFK???
-         004 Procedural Generation [Part 4 - ??]
+Week 8 - 003  Project Week - Field Trip
+         004 Procedural Generation [Part 3 - Maze]
          
 Week 9 - 003 CopyRight (C) [003 - P2]
-         004 [004 - P2]
+         004 Procedural Generation [Part 4 - Random Item Drop] [004 - P2]
          
 Week 10 - 003 Intellectual Property [003 - P2]
           004 [004 - P2]
