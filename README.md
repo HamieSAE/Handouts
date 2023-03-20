@@ -19,11 +19,11 @@ Week 7 - 003 Spatial Partition
 Week 8 - 003 Project Week - Field Trip / WfH
          004 Procedural Generation [Part 3 - Maze]
          
-Week 9 - 003 CopyRight (C) [003 - P2] / IWM Presentation
+Week 9 - 003 References [003 - P2] / IWM Presentation
          004 Procedural Generation [Part 4 - Random Item Drop] [004 - P2]
          
-Week 10 - 003 Intellectual Property [003 - P2]
-          004 {Project} [004 - P2]
+Week 10 - 003 CopyRight (C) / Intellectual Property [003 - P2]
+          004 Behaviour Tree {Project} [004 - P2]
          
 Week 11 - 003 [P3]{Project}
           004 [P3]{Project}
